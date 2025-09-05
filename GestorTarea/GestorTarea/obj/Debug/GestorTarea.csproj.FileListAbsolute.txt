@@ -1,0 +1,11 @@
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTarea.csproj.AssemblyReference.cache
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTarea.Properties.Resources.resources
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTarea.csproj.GenerateResource.cache
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTarea.csproj.CoreCompileInputs.cache
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTareas.Form1.resources
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\bin\Debug\GestorTarea.exe.config
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\bin\Debug\GestorTarea.exe
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\bin\Debug\GestorTarea.pdb
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTarea.exe
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTarea.pdb
+C:\Users\rowlc\source\repos\GestorTarea\GestorTarea\obj\Debug\GestorTarea.exe.config
